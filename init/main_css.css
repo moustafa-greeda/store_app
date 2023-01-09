@@ -1,0 +1,9 @@
+*{
+    text-transform: capitalize;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.background , input[submit] , button {
+    /* background-color: #6DADBF; */
+    background-color: #E6802E;
+}

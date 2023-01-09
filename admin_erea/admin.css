@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+#logo_admin{
+    width: 7%;
+    height: 7%;
+}
+.admin-img{
+    width: 100px;
+    object-fit: contain;
+}
+.edit-img{
+    width: 20px;
+    height: 20px;
+}
+.footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.bg{
+    background-color: #f00;
+}
